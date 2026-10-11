@@ -72,3 +72,7 @@ Suggestions and feedback are welcome. The project is being developed incremental
 License
 
 A suitable open-source license will be selected before the first public release.
+## Design Preview
+![Hand-drawn Block Diagram](block_diagram.jpg)
+![Full Schematic and PCB Layout](project_summary.png)
+*Note: The hand-drawn diagram represents the initial design process. The digital schematic is a concept reference for the final PCB.*
