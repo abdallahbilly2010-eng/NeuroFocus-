@@ -36,3 +36,4 @@ Challenges and solutions:
 Next steps:
 
 Evidence: Add genuine photos or screenshots of the work completed during this session.
+Created full system architecture and schematic diagrams. Corrected pin mapping to avoid ESP32 strapping pins (GPIO0, 2, 12, 15). Moved SD to VSPI.
