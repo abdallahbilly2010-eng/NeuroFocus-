@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T21:19:21.560Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvagjn00fp701sm1cdlg7ph). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > NeuroFocus is a small hardware device that trains and tracks attention, reaction time, inhibition, and working memory through interactive challenges. What makes it mine is the combination of neuroscience-inspired tasks, real-time measurements, and a custom-designed physical device.
 
