@@ -1,0 +1,15 @@
+Reference,Qty,Value,Description,Vendor
+U1,1,ESP32 DevKit V1,Main Microcontroller,Amazon
+U2,1,OLED 1.3" I2C,Display,Amazon
+U3,1,RTC DS3231,Real Time Clock,Amazon
+U4,1,microSD Module SPI,Storage,Amazon
+SW1-SW6,6,Push Buttons,Task & Menu Buttons,Amazon
+D1-D4,4,White LEDs,Task Indicators,Amazon
+D5,1,RGB LED,Central Stimulus,Amazon
+BZ1,1,Passive Buzzer,Auditory Stimulus,Amazon
+BT1,1,LiPo Battery 3.7V,Power,Amazon
+U5,1,TP4056,Battery Charger,Amazon
+R1-R7,7,220 Ohm,LED Current Limiting,Amazon
+R8-R20,13,10k Ohm,Pull-ups,Amazon
+ENC1,1,3D Printed Enclosure,Case,Local
+PCB1,1,Custom PCB,Board,JLCPCB
